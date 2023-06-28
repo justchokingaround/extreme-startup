@@ -12,6 +12,9 @@ The simplest way to get Extreme Startup running is to run in Docker.
 # The first time
 docker build -t extreme_startup .         # ./build.sh
 docker run -d -p 80:3000 extreme_startup  # ./run.sh
+
+
+
 ```
 and for warmup round
 ```shell script
