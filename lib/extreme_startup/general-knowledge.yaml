@@ -4,7 +4,7 @@
   answer: create a copy of the remote repository (fetch + checkout)
 -
   question: what does it means DevOps
-  answer: development + operations
+  answer: development and operations
 -
   question: what does it means Continuous Deployment
   answer: every change that passes the automated tests is deployed automatically
