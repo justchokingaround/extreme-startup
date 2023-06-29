@@ -1,13 +1,13 @@
 ---
 -
-  question: which year was Theresa May first elected as the Prime Minister of Great Britain
-  answer: 2016
+  question: What does the command git clone?
+  answer: create a copy of the remote repository (fetch + checkout)
 -
-  question: which city is the Eiffel tower in
-  answer: Paris
+  question: What does it means DevOps?
+  answer: Development + Operations
 -
-  question: what colour is a banana
-  answer: yellow
+  question: What does it means Continuous Deployment?
+  answer: every change that passes the automated tests is deployed automatically
 -
-  question: who played James Bond in the film Dr No
-  answer: Sean Connery
+  question: What is a container?
+  answer: lightweight abstraction to host software applications in an isolated environment
