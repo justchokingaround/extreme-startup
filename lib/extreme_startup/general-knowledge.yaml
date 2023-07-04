@@ -3,10 +3,10 @@
   question: what does the command git clone
   answer: create a copy of the remote repository (fetch + checkout)
 -
-  question: what does it means DevOps
+  question: what does it means devops
   answer: development and operations
 -
-  question: what does it means Continuous Deployment
+  question: what does it means continuous deployment
   answer: every change that passes the automated tests is deployed automatically
 -
   question: what is a container
